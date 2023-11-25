@@ -53,6 +53,11 @@ body {
     font-family: var(--font-primaria);
 }
 
+.apresentacao__conteudo__titulo__curriculo {
+    font-size: 2rem;
+    font-family: var(--font-primaria);
+}
+
 .cabecalho {
     padding: 2% 0% 0% 15%;
 
